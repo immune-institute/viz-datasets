@@ -20,3 +20,32 @@ Datasets for class and exercises
     - *variety*: text, type of grapes used to make the wine (i.e. Pinot Noir)
     - *winery*: text, winery that made the wine
 - **URL:** https://www.kaggle.com/zynicide/wine-reviews
+
+
+## BOSTON CRIME
+- **Description:** Crime incident reports are provided by Boston Police Department (BPD) to document the initial details surrounding an incident to which BPD officers respond. This is a dataset containing records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. The data is provided by Analyze Boston. Records begin in June 14, 2015 and continue to September 3, 2018. 
+- **Content:** CSV file containing 17 columns x ~319K rows
+- **Columns:**
+    - *INCIDENT_NUMBER*: text
+    - *OFFENSE_CODE*: number
+    - *OFFENSE_CODE_GROUP*: text
+    - *OFFENSE_DESCRIPTION*: text
+    - *DISTRICT*: text
+    - *REPORTING_AREA*: number
+    - *SHOOTING*: text
+    - *OCCURRED_ON_DATE*: datetime
+    - *YEAR*: number
+    - *MONTH*: number
+    - *DAY_OF_WEEK*: text
+    - *HOUR*: number
+    - *UCR_PART*: text
+    - *STREET*: text
+    - *Lat*: number
+    - *Long*: number
+    - *Location*: text
+- **URL:** https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
+
+## BOSTON POLICE DISTRICTS
+- **Description:** City of Boston police districts. 
+- **Content:** GeoJSON containing 12 features
+- **URL:** https://data.boston.gov/dataset/police-districts
