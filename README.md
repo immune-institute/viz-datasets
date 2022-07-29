@@ -81,4 +81,4 @@ Datasets for class and exercises
     - *moisturizer*: number
     - *total_units*: number
     - *total_profit*: text
-- **URL:** https://www.kaggle.com/datasets/yasserh/titanic-dataset
+- **URL:** https://pynative.com/
