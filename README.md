@@ -67,3 +67,18 @@ Datasets for class and exercises
     - *Cabin*: text
     - *Embarked*: text
 - **URL:** https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+## COMPANY SALES
+- **Description:** Profits over one month time of different products.
+- **Content:** CSV file containing 9 columns x 12 rows
+- **Columns:**
+    - *month_number*: number
+    - *facecream*: number
+    - *facewash*: number
+    - *toothpaste*: text
+    - *bathingsoap*: text
+    - *shampoo*: number
+    - *moisturizer*: number
+    - *total_units*: number
+    - *total_profit*: text
+- **URL:** https://www.kaggle.com/datasets/yasserh/titanic-dataset
